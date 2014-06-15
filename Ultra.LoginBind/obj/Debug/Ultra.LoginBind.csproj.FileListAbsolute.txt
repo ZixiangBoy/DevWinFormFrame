@@ -1,0 +1,14 @@
+H:\WinForm\LS.ERP.LoginBind\obj\Debug\Ultra.LoginBind.csprojResolveAssemblyReference.cache
+H:\WinForm\LS.ERP.LoginBind\obj\Debug\Ultra.LoginBind.EditView.resources
+H:\WinForm\LS.ERP.LoginBind\obj\Debug\Ultra.LoginBind.MainView.resources
+H:\WinForm\LS.ERP.LoginBind\obj\Debug\Ultra.LoginBind.csproj.GenerateResource.Cache
+H:\WinForm\LS.ERP.LoginBind\obj\Debug\LS.ERP.LoginBind.dll
+H:\WinForm\LS.ERP.LoginBind\obj\Debug\LS.ERP.LoginBind.pdb
+H:\winform\Bin\Ultra.LoginBind.dll
+H:\winform\Bin\Ultra.LoginBind.pdb
+H:\winform\Ultra.LoginBind\obj\Debug\Ultra.LoginBind.csprojResolveAssemblyReference.cache
+H:\winform\Ultra.LoginBind\obj\Debug\Ultra.LoginBind.EditView.resources
+H:\winform\Ultra.LoginBind\obj\Debug\Ultra.LoginBind.MainView.resources
+H:\winform\Ultra.LoginBind\obj\Debug\Ultra.LoginBind.csproj.GenerateResource.Cache
+H:\winform\Ultra.LoginBind\obj\Debug\Ultra.LoginBind.dll
+H:\winform\Ultra.LoginBind\obj\Debug\Ultra.LoginBind.pdb

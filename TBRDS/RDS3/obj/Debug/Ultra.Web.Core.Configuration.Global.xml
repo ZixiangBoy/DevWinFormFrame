@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootConfig>
+  <item name="conn" value="server=conn1804c7s7.sqlserver.rds.aliyuncs.com,3433;uid=usr0804c7s7;pwd=ABcd6634539;database=erp_power" />
+  <item name="test" value="System.Collections.Generic.List`1[System.String]" />
+  <item name="connchat" value="server=conn1804c7s7.sqlserver.rds.aliyuncs.com,3433;uid=usr0804c7s7;pwd=ABcd6634539;database=erp_chat" />
+  <item name="sec" value="180000" />
+  <item name="appkey" value="12517536" />
+  <item name="appsecret" value="d86d510e5a9dfab841e00ff7e7f63e4f" />
+  <item name="Trace" value="True" />
+</RootConfig>

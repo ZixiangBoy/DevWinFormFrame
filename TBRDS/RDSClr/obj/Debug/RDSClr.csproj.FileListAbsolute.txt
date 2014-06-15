@@ -1,0 +1,12 @@
+G:\LSMYERP\RDSNew\Bin\RDSClr.exe
+G:\LSMYERP\RDSNew\Bin\RDSClr.pdb
+G:\LSMYERP\RDSNew\RDSClr\obj\Debug\RDSClr.csprojResolveAssemblyReference.cache
+G:\LSMYERP\RDSNew\RDSClr\obj\Debug\RDSClr.Properties.Resources.resources
+G:\LSMYERP\RDSNew\RDSClr\obj\Debug\RDSClr.csproj.GenerateResource.Cache
+G:\LSMYERP\RDSNew\RDSClr\obj\Debug\RDSClr.exe
+G:\LSMYERP\RDSNew\RDSClr\obj\Debug\RDSClr.pdb
+H:\winform\TBRDS\Bin\RDSClr.exe.config
+H:\winform\TBRDS\Bin\RDSClr.exe
+H:\winform\TBRDS\Bin\RDSClr.pdb
+H:\winform\TBRDS\RDSClr\obj\Debug\RDSClr.exe
+H:\winform\TBRDS\RDSClr\obj\Debug\RDSClr.pdb

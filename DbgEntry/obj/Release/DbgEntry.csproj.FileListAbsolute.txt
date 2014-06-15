@@ -1,0 +1,8 @@
+H:\WinForm\Bin\DbgEntry.exe.config
+H:\WinForm\Bin\DbgEntry.exe
+H:\WinForm\Bin\DbgEntry.pdb
+H:\WinForm\DbgEntry\obj\Release\DbgEntry.csprojResolveAssemblyReference.cache
+H:\WinForm\DbgEntry\obj\Release\DbgEntry.Properties.Resources.resources
+H:\WinForm\DbgEntry\obj\Release\DbgEntry.csproj.GenerateResource.Cache
+H:\WinForm\DbgEntry\obj\Release\DbgEntry.exe
+H:\WinForm\DbgEntry\obj\Release\DbgEntry.pdb

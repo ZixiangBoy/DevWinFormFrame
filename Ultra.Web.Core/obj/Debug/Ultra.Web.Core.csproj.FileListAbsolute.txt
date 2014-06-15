@@ -1,0 +1,11 @@
+H:\WinForm\Ultra.Web.Core\bin\Debug\Ultra.Web.Core.dll
+H:\WinForm\Ultra.Web.Core\bin\Debug\Ultra.Web.Core.pdb
+H:\WinForm\Ultra.Web.Core\bin\Debug\ChnCharInfo.dll
+H:\WinForm\Ultra.Web.Core\bin\Debug\MySql.Data.dll
+H:\WinForm\Ultra.Web.Core\bin\Debug\Newtonsoft.Json.dll
+H:\WinForm\Ultra.Web.Core\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+H:\winform\Bin\Ultra.Web.Core.dll
+H:\winform\Bin\Ultra.Web.Core.pdb
+H:\winform\Ultra.Web.Core\obj\Debug\Ultra.Web.Core.dll
+H:\winform\Ultra.Web.Core\obj\Debug\Ultra.Web.Core.pdb
+H:\WinForm\Ultra.Web.Core\obj\Debug\Ultra.Web.Core.csprojResolveAssemblyReference.cache

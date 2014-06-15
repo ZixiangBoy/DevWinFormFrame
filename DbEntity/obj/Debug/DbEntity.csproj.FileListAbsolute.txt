@@ -1,0 +1,12 @@
+G:\LSMYERP\Bin\DbEntity.dll.config
+G:\LSMYERP\Bin\DbEntity.dll
+G:\LSMYERP\Bin\DbEntity.pdb
+G:\LSMYERP\DbEntity\obj\Debug\DbEntity.dll
+G:\LSMYERP\DbEntity\obj\Debug\DbEntity.pdb
+G:\LSMYERP\DbEntity\obj\Debug\DbEntity.csprojResolveAssemblyReference.cache
+H:\winform\Bin\DbEntity.dll.config
+H:\winform\Bin\DbEntity.dll
+H:\winform\Bin\DbEntity.pdb
+H:\winform\DbEntity\obj\Debug\DbEntity.csprojResolveAssemblyReference.cache
+H:\winform\DbEntity\obj\Debug\DbEntity.dll
+H:\winform\DbEntity\obj\Debug\DbEntity.pdb

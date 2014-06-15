@@ -1,0 +1,6 @@
+H:\winform\Bin\Entry.exe.config
+H:\winform\Bin\Entry.exe
+H:\winform\Bin\Entry.pdb
+H:\winform\Entry\obj\Debug\Entry.csprojResolveAssemblyReference.cache
+H:\winform\Entry\obj\Debug\Entry.exe
+H:\winform\Entry\obj\Debug\Entry.pdb

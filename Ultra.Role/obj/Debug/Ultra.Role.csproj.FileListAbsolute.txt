@@ -1,0 +1,14 @@
+H:\WinForm\LS.ERP.Role\obj\Debug\Ultra.Role.csprojResolveAssemblyReference.cache
+H:\WinForm\LS.ERP.Role\obj\Debug\Ultra.Role.MainView.resources
+H:\WinForm\LS.ERP.Role\obj\Debug\Ultra.Role.NewView.resources
+H:\WinForm\LS.ERP.Role\obj\Debug\Ultra.Role.csproj.GenerateResource.Cache
+H:\WinForm\LS.ERP.Role\obj\Debug\LS.ERP.Role.dll
+H:\WinForm\LS.ERP.Role\obj\Debug\LS.ERP.Role.pdb
+H:\winform\Bin\Ultra.Role.dll
+H:\winform\Bin\Ultra.Role.pdb
+H:\winform\Ultra.Role\obj\Debug\Ultra.Role.csprojResolveAssemblyReference.cache
+H:\winform\Ultra.Role\obj\Debug\Ultra.Role.MainView.resources
+H:\winform\Ultra.Role\obj\Debug\Ultra.Role.NewView.resources
+H:\winform\Ultra.Role\obj\Debug\Ultra.Role.csproj.GenerateResource.Cache
+H:\winform\Ultra.Role\obj\Debug\Ultra.Role.dll
+H:\winform\Ultra.Role\obj\Debug\Ultra.Role.pdb

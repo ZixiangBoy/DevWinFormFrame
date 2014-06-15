@@ -1,0 +1,10 @@
+H:\winform\Bin\Ultra.Login.dll
+H:\winform\Bin\Ultra.Login.pdb
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.csprojResolveAssemblyReference.cache
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.EditPassWord.resources
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.LoginView.resources
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.MainView.resources
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.MenuView.resources
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.csproj.GenerateResource.Cache
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.dll
+H:\winform\Ultra.Login\obj\Debug\Ultra.Login.pdb

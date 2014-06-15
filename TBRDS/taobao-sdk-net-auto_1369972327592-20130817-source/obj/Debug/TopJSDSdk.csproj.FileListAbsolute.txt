@@ -1,0 +1,11 @@
+H:\RDS-New\taobao-sdk-net-auto_1369972327592-20130817-source\bin\Debug\TopJSDSdk.dll
+H:\RDS-New\taobao-sdk-net-auto_1369972327592-20130817-source\bin\Debug\TopJSDSdk.pdb
+H:\RDS-New\Bin\TopJSDSdk.dll
+H:\RDS-New\Bin\TopJSDSdk.pdb
+H:\RDS-New\taobao-sdk-net-auto_1369972327592-20130817-source\obj\Debug\TopJSDSdk.dll
+H:\RDS-New\taobao-sdk-net-auto_1369972327592-20130817-source\obj\Debug\TopJSDSdk.pdb
+G:\LSMYERP\RDSNew\Bin\TopJSDSdk.dll
+G:\LSMYERP\RDSNew\Bin\TopJSDSdk.pdb
+G:\LSMYERP\RDSNew\taobao-sdk-net-auto_1369972327592-20130817-source\obj\Debug\TopJSDSdk.dll
+G:\LSMYERP\RDSNew\taobao-sdk-net-auto_1369972327592-20130817-source\obj\Debug\TopJSDSdk.pdb
+G:\LSMYERP\RDSNew\taobao-sdk-net-auto_1369972327592-20130817-source\obj\Debug\TopJSDSdk.csprojResolveAssemblyReference.cache

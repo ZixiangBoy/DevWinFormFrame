@@ -1,0 +1,14 @@
+H:\WinForm\LS.ERP.User\obj\Debug\Ultra.User.csprojResolveAssemblyReference.cache
+H:\WinForm\LS.ERP.User\obj\Debug\Ultra.User.MainView.resources
+H:\WinForm\LS.ERP.User\obj\Debug\Ultra.User.NewView.resources
+H:\WinForm\LS.ERP.User\obj\Debug\Ultra.User.csproj.GenerateResource.Cache
+H:\WinForm\LS.ERP.User\obj\Debug\LS.ERP.User.dll
+H:\WinForm\LS.ERP.User\obj\Debug\LS.ERP.User.pdb
+H:\winform\Bin\Ultra.User.dll
+H:\winform\Bin\Ultra.User.pdb
+H:\winform\Ultra.User\obj\Debug\Ultra.User.csprojResolveAssemblyReference.cache
+H:\winform\Ultra.User\obj\Debug\Ultra.User.MainView.resources
+H:\winform\Ultra.User\obj\Debug\Ultra.User.NewView.resources
+H:\winform\Ultra.User\obj\Debug\Ultra.User.csproj.GenerateResource.Cache
+H:\winform\Ultra.User\obj\Debug\Ultra.User.dll
+H:\winform\Ultra.User\obj\Debug\Ultra.User.pdb

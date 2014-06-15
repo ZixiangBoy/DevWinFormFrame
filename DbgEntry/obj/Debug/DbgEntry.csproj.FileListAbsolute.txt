@@ -1,0 +1,16 @@
+G:\LSMYERP\DbgEntry\obj\Debug\DbgEntry.csprojResolveAssemblyReference.cache
+G:\LSMYERP\DbgEntry\obj\Debug\DbgEntry.Properties.Resources.resources
+G:\LSMYERP\DbgEntry\obj\Debug\DbgEntry.csproj.GenerateResource.Cache
+G:\LSMYERP\Bin\DbgEntry.exe.config
+G:\LSMYERP\Bin\DbgEntry.exe
+G:\LSMYERP\Bin\DbgEntry.pdb
+G:\LSMYERP\DbgEntry\obj\Debug\DbgEntry.exe
+G:\LSMYERP\DbgEntry\obj\Debug\DbgEntry.pdb
+H:\winform\Bin\DbgEntry.exe.config
+H:\winform\Bin\DbgEntry.exe
+H:\winform\Bin\DbgEntry.pdb
+H:\winform\DbgEntry\obj\Debug\DbgEntry.csprojResolveAssemblyReference.cache
+H:\winform\DbgEntry\obj\Debug\DbgEntry.Properties.Resources.resources
+H:\winform\DbgEntry\obj\Debug\DbgEntry.csproj.GenerateResource.Cache
+H:\winform\DbgEntry\obj\Debug\DbgEntry.exe
+H:\winform\DbgEntry\obj\Debug\DbgEntry.pdb
