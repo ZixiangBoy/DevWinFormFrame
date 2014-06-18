@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<ClientConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServerUrl>http://192.168.1.13/website1/serverconfig.xml</ServerUrl>
+  <ClientFileName>download.zip</ClientFileName>
+  <BackupDirectory>bak</BackupDirectory>
+  <ProcessName>LSERP.EXE</ProcessName>
+  <Version>2.5.1</Version>
+</ClientConfig>

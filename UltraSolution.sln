@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDS3", "TBRDS\RDS3\RDS3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDSClr", "TBRDS\RDSClr\RDSClr.csproj", "{A2DA6528-F312-4EB3-9C98-1B23ED1F69FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultra.Update", "Ultra.Update\Ultra.Update.csproj", "{B768759D-782C-4863-912E-49716B5F736F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,6 +91,10 @@ Global
 		{A2DA6528-F312-4EB3-9C98-1B23ED1F69FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2DA6528-F312-4EB3-9C98-1B23ED1F69FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2DA6528-F312-4EB3-9C98-1B23ED1F69FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B768759D-782C-4863-912E-49716B5F736F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B768759D-782C-4863-912E-49716B5F736F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B768759D-782C-4863-912E-49716B5F736F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B768759D-782C-4863-912E-49716B5F736F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
